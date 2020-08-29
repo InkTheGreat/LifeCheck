@@ -12,7 +12,7 @@
 ### once account is created then there will be side tabs with option to-
 ##### -add
 ##### -checklist
-##### -c#####alender
+##### -calender
 ##### -routines
 ##### -to do list
 ##### -goals
