@@ -1,5 +1,5 @@
 # LifeCheck
-[LifeCheck Diagram](https://github.com/InkTheGreat/LifeCheck/blob/master/LifeCheck%20Diagram.PNG)
+##[LifeCheck Diagram](https://github.com/InkTheGreat/LifeCheck/blob/master/LifeCheck%20Diagram.PNG)
 ## Time Management Website
 ### Users Will first make thier own account
 ##### -username
